@@ -9,11 +9,12 @@
 
 ## Interesse em
 
-[![Excel](https://img.shields.io/badge/Excel-Office%20Tool-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Java](https://img.shields.io/badge/Java-Programming-blue?logo=java)](https://www.java.com)
-[![C](https://img.shields.io/badge/C-Programming-green?logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![SQL](https://img.shields.io/badge/SQL-Query%20Language-blue?logo=sql)](https://pt.wikipedia.org/wiki/SQL)
-[![CRUD](https://img.shields.io/badge/CRUD-Database%20Operations-blueviolet)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+<img src="https://img.shields.io/badge/Excel-Office%20Tool-green?logo=microsoft-excel" target="_blank"></a>
+<img src="https://img.shields.io/badge/Java-Programming-blue?logo=java" target="_blank"></a>
+<img src="https://img.shields.io/badge/C-Programming-green?logo=c" target="_blank"></a>
+<img src="https://img.shields.io/badge/SQL-Query%20Language-blue?logo=sql" target="_blank"></a>
+<img src="https://img.shields.io/badge/CRUD-Database%20Operations-blueviolet" target="_blank"></a>
+
 
 ## Contato
 
