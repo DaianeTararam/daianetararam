@@ -35,7 +35,7 @@
 Se quiser conversar, tirar dúvidas ou trocar ideias, estou por aqui:
 
 <p>
-  <a href="mailto:tararamdaiane@gmail.com">
+  <a href="mailto:daalkmim@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
