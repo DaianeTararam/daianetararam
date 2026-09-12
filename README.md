@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b1fb5,100:00c6ff&height=200&section=header&text=Daiane%20Tararam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20%40%20FATEC&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b1fb5,100:00c6ff&height=120&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Back-end+%7C+Banco+de+Dados+%7C+Java+%26+Spring+Boot;Tambem+crio+em+3D+no+Blender+e+Roblox+Studio" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Oii,+eu+sou+a+Dai!;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Back-end+%7C+Banco+de+Dados+%7C+Java+%26+Spring+Boot;Tambem+crio+em+3D+no+Blender+e+Roblox+Studio" />
 
 <br>
 
@@ -20,10 +20,10 @@
 
 ### Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**
-- 🔧 Foco em **Back-end**, **Banco de Dados** e **Java/Spring Boot**
-- 🎨 Crio também em **3D** com **Blender** e **Roblox Studio**
-- ✨ Curiosa por lógica de baixo nível e arquitetura de sistemas
+- Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**
+- Foco em **Back-end**, **Banco de Dados** e **Java/Spring Boot**
+- Crio também em **3D** com **Blender** e **Roblox Studio**
+- Curiosa por lógica de baixo nível, arquitetura de sistemas e salesforce.
 
 ---
 
@@ -86,17 +86,6 @@ Sistema completo para gestão hoteleira: clientes, quartos, hospedagens, reserva
 
 Aplicação Java Web com persistência relacional, modelada com diagrama de classes e DER no Visual Paradigm.  
 `Java` · `Spring Boot` · `Spring Data JPA` · `SQL Server` · `Bootstrap`
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DaianeTararam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00c6ff&icon_color=00c6ff&text_color=c9b8ff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeTararam&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d0221&title_color=00c6ff&text_color=c9b8ff" width="48%" />
-
-</div>
 
 ---
 
