@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wavingacolor=0:1a0033,50:5b1fb5,100:00c6ffandheight=200andsection=headerandtext=Daiane%20TararamandfontSize=50andfontColor=ffffffandanimation=fadeInandfontAlignY=38anddesc=Systems%20Analysis%20%26%20Development%20%40%20FATECanddescAlignY=58anddescSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b1fb5,100:00c6ff&height=200&section=header&text=Daiane%20Tararam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20%40%20FATEC&descAlignY=58&descSize=17" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Back-end+%7C+Banco+de+Dados+%7C+Java+%26+Spring+Boot;Tambem+crio+em+3D+no+Blender+e+Roblox+Studio" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Back-end+%7C+Banco+de+Dados+%7C+Java+%26+Spring+Boot;Tambem+crio+em+3D+no+Blender+e+Roblox+Studio" />
 
 <br>
 
@@ -18,15 +16,18 @@
 
 </div>
 
-<p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC</b>, transitando entre lógica de baixo nível, back-end e criação 3D. Gosto de entender como as coisas funcionam por dentro — de assembly a API REST. ✨
-</p>
+---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:5b1fb5,100:00c6ff&height=5" width="100%"/>
-</div>
+### Sobre mim
 
-### Meu playground
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**
+- 🔧 Foco em **Back-end**, **Banco de Dados** e **Java/Spring Boot**
+- 🎨 Crio também em **3D** com **Blender** e **Roblox Studio**
+- ✨ Curiosa por lógica de baixo nível e arquitetura de sistemas
+
+---
+
+### Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -36,11 +37,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC</b>, transitando
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:5b1fb5,100:1a0033&height=5" width="100%"/>
-</div>
+---
 
-### Também conheço...
+### Também conheço
 
 <div align="center">
 
@@ -58,6 +57,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC</b>, transitando
 
 </div>
 
+---
+
 ### Fundamentos & Arquitetura
 
 <div align="center">
@@ -72,29 +73,21 @@ Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC</b>, transitando
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:5b1fb5,100:00c6ff&height=5" width="100%"/>
-</div>
+---
 
 ### Projetos em destaque
 
 #### [Sistema de Gestão de Hotel](https://github.com/DaianeTararam/sistema-gestao-hotel)
 
-Sistema completo para gestão hoteleira: clientes, quartos, hospedagens, reservas, serviços e geração de relatórios gerenciais com JasperReports. Modelado no Visual Paradigm (diagrama de classes e DER) e documentado aplicando os 5 princípios SOLID na prática.
-
+Sistema completo para gestão hoteleira: clientes, quartos, hospedagens, reservas, serviços e relatórios gerenciais com JasperReports.  
 `Java` · `Spring Boot` · `Spring Data JPA` · `SQL Server` · `Bootstrap` · `JasperReports`
 
 #### [Sistema Oráculo](https://github.com/DaianeTararam/Av2LabBD-SistemaOraculo)
 
-Projeto acadêmico de Laboratório de Banco de Dados: aplicação Java Web com persistência relacional, modelada com diagrama de classes e DER no Visual Paradigm, aprofundando arquitetura e camadas de persistência.
-
+Aplicação Java Web com persistência relacional, modelada com diagrama de classes e DER no Visual Paradigm.  
 `Java` · `Spring Boot` · `Spring Data JPA` · `SQL Server` · `Bootstrap`
 
-<p align="center"><i>📽️ Tenho também o <b>Locadora</b>, um sistema de locação de filmes com integração à API OMDB — me avise se quiser ele aqui também.</i></p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:5b1fb5,100:1a0033&height=5" width="100%"/>
-</div>
+---
 
 ### GitHub Stats
 
@@ -105,35 +98,17 @@ Projeto acadêmico de Laboratório de Banco de Dados: aplicação Java Web com p
 
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DaianeTararam&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:5b1fb5,100:00c6ff&height=5" width="100%"/>
-</div>
-
-### Meus commits
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/DaianeTararam/DaianeTararam/output/github-snake-dark.svg" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:5b1fb5,100:1a0033&height=5" width="100%"/>
-</div>
+---
 
 ### Contato
 
 <p align="center">Se quiser conversar, tirar dúvidas ou trocar ideias, estou por aqui:</p>
 
 <p align="center">
-  <a href="mailto:daalkmim@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-5b1fb5?style=for-the-badge&logo=gmail&logoColor=00c6ff&labelColor=0d0221"/>
-  </a>
-  <a href="https://www.linkedin.com/in/daianetararam">
-    <img src="https://img.shields.io/badge/-LinkedIn-5b1fb5?style=for-the-badge&logo=linkedin&logoColor=00c6ff&labelColor=0d0221"/>
-  </a>
+  <a href="mailto:daalkmim@gmail.com">📧 daalkmim@gmail.com</a> · 
+  <a href="https://www.linkedin.com/in/daianetararam">💼 LinkedIn</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:5b1fb5,100:1a0033&height=90&section=footer" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:5b1fb5,100:1a0033&height=120&section=footer" />
+</div>
