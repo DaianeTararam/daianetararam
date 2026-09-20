@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b1fb5,100:00c6ff&height=120&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Oii,+eu+sou+a+Dai!;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Back-end+%7C+Banco+de+Dados+%7C+Java+%26+Spring+Boot;Tambem+crio+em+3D+no+Blender+e+Roblox+Studio" />
-
+<br>
 <br>
 <br>
 
