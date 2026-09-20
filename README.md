@@ -1,18 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:5b1fb5,100:00c6ff&height=120&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Oii,+eu+sou+a+Dai!;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Back-end+%7C+Banco+de+Dados+%7C+Java+%26+Spring+Boot;Tambem+crio+em+3D+no+Blender+e+Roblox+Studio" />
-<br>
-<br>
-<br>
-
-<a href="https://www.linkedin.com/in/daianetararam">
-  <img src="https://img.shields.io/badge/LinkedIn-daianetararam-5b1fb5?style=for-the-badge&logo=linkedin&logoColor=00c6ff&labelColor=0d0221" />
-</a>
-<a href="mailto:daalkmim@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-daalkmim-5b1fb5?style=for-the-badge&logo=gmail&logoColor=00c6ff&labelColor=0d0221" />
-</a>
 <img src="https://komarev.com/ghpvc/?username=DaianeTararam&style=for-the-badge&color=5b1fb5&labelColor=0d0221" />
 
 </div>
@@ -64,13 +51,13 @@
 
 <div align="center">
 
-![Logica](https://img.shields.io/badge/Lógica_de_Programação-00c6ff?style=flat-square&labelColor=0d0221)
-![Estrutura](https://img.shields.io/badge/Estrutura_de_Dados-00c6ff?style=flat-square&labelColor=0d0221)
-![POO](https://img.shields.io/badge/Programação_Orientada_a_Objetos-00c6ff?style=flat-square&labelColor=0d0221)
-![MVC](https://img.shields.io/badge/Arquitetura_MVC-00c6ff?style=flat-square&labelColor=0d0221)
-![REST](https://img.shields.io/badge/APIs_REST-00c6ff?style=flat-square&labelColor=0d0221)
-![Semaforos](https://img.shields.io/badge/Semáforos_e_Concorrência-00c6ff?style=flat-square&labelColor=0d0221)
-![Modelagem](https://img.shields.io/badge/Modelagem_de_Sistemas-00c6ff?style=flat-square&labelColor=0d0221)
+![Lógica_de_Programação](https://img.shields.io/badge/Lógica_de_Programação-5b1fb5?style=for-the-badge&labelColor=0d0221)
+![Estrutura_de_Dados](https://img.shields.io/badge/Estrutura_de_Dados-5b1fb5?style=for-the-badge&labelColor=0d0221)
+![Programação_Orientada_a_Objetos](https://img.shields.io/badge/Programação_Orientada_a_Objetos-5b1fb5?style=for-the-badge&labelColor=0d0221)
+![Arquitetura_MVC](https://img.shields.io/badge/Arquitetura_MVC-5b1fb5?style=for-the-badge&labelColor=0d0221)
+![APIs_REST](https://img.shields.io/badge/APIs_REST-5b1fb5?style=for-the-badge&labelColor=0d0221)
+![Semáforos_e_Concorrência](https://img.shields.io/badge/Semáforos_e_Concorrência-5b1fb5?style=for-the-badge&labelColor=0d0221)
+![Modelagem_de_Sistemas](https://img.shields.io/badge/Modelagem_de_Sistemas-5b1fb5?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
@@ -94,11 +81,11 @@ Aplicação Java Web com persistência relacional, modelada com diagrama de clas
 
 <p align="center">Se quiser conversar, tirar dúvidas ou trocar ideias, estou por aqui:</p>
 
-<p align="center">
-  <a href="mailto:daalkmim@gmail.com">📧 daalkmim@gmail.com</a> · 
-  <a href="https://www.linkedin.com/in/daianetararam">💼 LinkedIn</a>
-</p>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:5b1fb5,100:1a0033&height=120&section=footer" />
-</div>
+<a href="https://www.linkedin.com/in/daianetararam">
+  <img src="https://img.shields.io/badge/LinkedIn-daianetararam-5b1fb5?style=for-the-badge&logo=linkedin&logoColor=00c6ff&labelColor=0d0221" />
+</a>
+<a href="mailto:daalkmim@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-daalkmim-5b1fb5?style=for-the-badge&logo=gmail&logoColor=00c6ff&labelColor=0d0221" />
+</a>
+</div>  
