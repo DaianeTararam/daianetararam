@@ -83,7 +83,7 @@ Aplicação Java Web com persistência relacional, modelada com diagrama de clas
 
 <div align="center">
 <a href="https://www.linkedin.com/in/daianetararam">
-  <img src="https://img.shields.io/badge/LinkedIn-daianetararam-5b1fb5?style=for-the-badge&logo=linkedin&logoColor=00c6ff&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/LinkedIn-daianealkmim-5b1fb5?style=for-the-badge&logo=linkedin&logoColor=00c6ff&labelColor=0d0221" />
 </a>
 <a href="mailto:daalkmim@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-daalkmim-5b1fb5?style=for-the-badge&logo=gmail&logoColor=00c6ff&labelColor=0d0221" />
